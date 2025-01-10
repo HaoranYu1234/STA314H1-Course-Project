@@ -2,7 +2,7 @@
 
 This project, **Detection of YouTube Spam Comments**, addresses the pervasive issue of spam in YouTube's comment sections. As one of the world's most popular video-sharing platforms, YouTube facilitates dynamic interactions between users through its comment section. However, this openness invites spam comments, which can degrade user experience, mislead viewers, and even expose users to harmful content.
 
-Our team—**Marta Gonczar, Arnav Nambiar, Haoran (Alex) Yu, and Ian Zhang**—undertook this project to build a machine learning solution capable of identifying and mitigating spam comments. Competing under the Kaggle team, we developed a robust Random Forest-based classifier that achieved an impressive **accuracy of 96%** on validation data and ranked **15th** in the competition with private and public scores of **94.718%** and **94.059%**, respectively.
+Our team undertook this project to build a machine learning solution capable of identifying and mitigating spam comments. Competing under the Kaggle team, we developed a robust Random Forest-based classifier that achieved an impressive **accuracy of 96%** on validation data and ranked **15th** in the competition with private and public scores of **94.718%** and **94.059%**, respectively.
 
 ## Project Workflow
 
